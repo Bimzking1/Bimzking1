@@ -2,7 +2,7 @@
 
 <!-- ![Banner](./foreverago.jpg) -->
 
-My name is Paulus Bimo. I'am a newbie Frontend Developer.
+My name is Paulus Bimo. I am a newbie Frontend Developer.
 <p>
   <a href="https://www.linkedin.com/in/paulus-bimo-347b13200/"><img alt="Linkedin" title="Paulus Bimo Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.instagram.com/bimopaul/"><img alt="Instagram" title="Paulus Bimo Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
