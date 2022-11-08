@@ -1,6 +1,6 @@
 ### Hi there! Welcome to my page 👋
 
-![Banner](./foreverago.jpg)
+<!-- ![Banner](./foreverago.jpg) -->
 
 My name is Paulus Bimo. I'am a newbie Frontend Developer.
 <p>
